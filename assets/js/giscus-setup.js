@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "chitrangada-juneja/cj21.github.io",
+    "data-repo": "chitrangada-juneja/chitrangada-juneja.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
